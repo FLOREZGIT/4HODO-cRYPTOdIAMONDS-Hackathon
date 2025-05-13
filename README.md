@@ -34,7 +34,7 @@ Despite this challenge, I worked closely with **Microsoft Copilot** to assist in
 ✔ **Gamified and Sustainable Model** → An approach that ensures **economic circulation while benefiting both collectors and charities**.  
 ✔ **Clear Structure for Future Development** → Even if refinements are needed, the project has **a solid foundation that can evolve with collaboration**.  
 
-**For a detailed explanation, please refer to [`docs/project_notes.md`](docs/project_notes.md)**.  
+**For a detailed explanation, please refer to [[`docs/project_notes.md](https://github.com/FLOREZGIT/4HODO-cRYPTOdIAMONDS-Hackathon/edit/main/docs/docs/docs/project_notes.md))**.  
 
   
 
