@@ -36,5 +36,14 @@ Despite this challenge, I worked closely with **Microsoft Copilot** to assist in
 
 **For a detailed explanation, please refer to [[`docs/project_notes.md](https://github.com/FLOREZGIT/4HODO-cRYPTOdIAMONDS-Hackathon/edit/main/docs/docs/docs/project_notes.md))**.  
 
-  
+ ## Project Presentation 🚀  
+
+You can access the **official project presentation** at the following link:  
+
+👉 [View Presentation in PDF]([https://drive.google.com/your-lin](https://drive.google.com/file/d/1pJR2CqWJv6pfteaoeVwJS9LyvF1NaI1S/view?usp=sharing)  
+
+This document contains all relevant information about **4HODO**, including details on blockchain integration, smart contracts, economic impact, and social initiatives.  
+
+Feel free to explore and reach out if you have any questions! 🔥  
+ 
 
